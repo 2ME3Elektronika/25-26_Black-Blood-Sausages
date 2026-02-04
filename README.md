@@ -3,6 +3,7 @@
 BERARIAZKO KONPROMEZUAK
 Kitarra elektrikoarentzat bi efektu pedal sortuko dira, alde batetik, pedal analogiko bat “fuzz” efektuarekin eta bestalde, pedal digital bat (efektu-anitzekoa) 4 efekturekin overdrive, distortsioa, fuzz eta reverb efektuekin.
 Pedal analogikoa:
+
 ● Interneten aurretik eginda dauden eskemak aztertuko dira.
 ● Eskema propioa diseinatuko da proteus-en.
 ● Materialen zerrenda osatuko da eta eskaera egingo litzateke beharrezkoa izango balitz.
