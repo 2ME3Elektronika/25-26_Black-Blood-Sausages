@@ -6,9 +6,8 @@ Kitarra elektrikoarentzat bi efektu pedal sortuko dira, alde batetik, pedal anal
 (PEDAL ANALOGIKOAREN INFORMAZIO GUZTIA ARGAZKIEKIN HURRENGO KARPETAN AURKITZEN DA, "PEDAL ANALOGIKOA"-"PEDAL ANALOGIKOAREN TXOSTENA").
 (PEDAL DIGITALAREN INFORMAZIO GUZTIA ARGAZKIEKIN HURRENGO KARPETAN AURKITZEN DA, "PEDAL DIGITALA"-"PEDAL DIGITALAREN TXOSTENA").
 
-Gitarra Elektrikorako Fuzz Efektuko
-Pedal Analogikoaren Diseinu eta
-Fabrikazioaren Txostena
+GITARRA ELEKTRIKORAKO FUZZ EFEKTUKO PEDAL ANALALOGIKOAREN DISEINU ETA FABRIKAZIOA
+
 1. Sarrera
 Proiektu honen helburua gitarra elektrikorako fuzz efektuko pedal analogiko baten
 diseinu, eraikuntza eta balidazioa egitea izan da. Fuzz efektua seinale elektrikoaren
@@ -198,8 +197,8 @@ Adaptadorea (pila)	1
 Jack konektorea (6.3mm)	2
 LED diodoa	1
 
-9 Efektuko Pedal Digital Multiefektuaren
-Diseinu eta Inplementazioa
+EFEKTUKO ANITZEKO PEDAL DIGITAL DISEINU ETA FABRIKAZIOA
+
 1. Sarrera
 Proiektu honen helburua gitarra elektrikorako pedal digital multiefektu bat garatzea izan
 da, efektu hauekin: Delay, Reverb, Chorus, Flanger, Phaser, Autowah, Distortsioa,
