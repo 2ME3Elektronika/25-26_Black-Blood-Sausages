@@ -1,7 +1,11 @@
 # 25-26_Black Blood Sausages
 
 BERARIAZKO KONPROMEZUAK
-Kitarra elektrikoarentzat bi efektu pedal sortuko dira, alde batetik, pedal analogiko bat “fuzz” efektuarekin eta bestalde, pedal digital bat (efektu-anitzekoa) 4 efekturekin overdrive, distortsioa, fuzz eta reverb efektuekin.
+Kitarra elektrikoarentzat bi efektu pedal sortuko dira, alde batetik, pedal analogiko bat “fuzz” efektuarekin eta bestalde, pedal digital bat (efektu-anitzekoa) 4 efekturekin overdrive, distortsioa, fuzz eta reverb efektuekin. 
+
+(PEDAL ANALOGIKOAREN INFORMAZIO GUZTIA ARGAZKIEKIN HURRENGO KARPETAN AURKITZEN DA, "PEDAL ANALOGIKOA"-"PEDAL ANALOGIKOAREN TXOSTENA").
+(PEDAL DIGITALAREN INFORMAZIO GUZTIA ARGAZKIEKIN HURRENGO KARPETAN AURKITZEN DA, "PEDAL DIGITALA"-"PEDAL DIGITALAREN TXOSTENA").
+
 Gitarra Elektrikorako Fuzz Efektuko
 Pedal Analogikoaren Diseinu eta
 Fabrikazioaren Txostena
