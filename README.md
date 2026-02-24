@@ -252,7 +252,9 @@ Elikadura-adaptadorea (bateria) 1
 Bateria 1
 Material-zerrenda honi esker, sistemaren hardwarearen muntaketa, audio-sarrera/irteera,
 kontrol-interfazea eta elikadura modu egokian garatu ahal izan dira.
+
 5.1. Material bakoitzaren funtzioa
+
 ● Protoboard (1): zirkuitua behin-behinean muntatzeko eta prototipoa azkar
 probatzeko.
 ● Teensy 4.0 (1): prozesamendu-unitatea; audio DSP algoritmoak (9 efektuak)
@@ -280,21 +282,22 @@ mekanikoa ahalbidetzen du.
 sistemarako).
 ● Bateria (1): elikadura eramangarria emateko (kanpoko elikadurarik gabe
 erabiltzeko).
+
 11.6. Hardwarearen bloke-diagrama
-6. Softwarearen garapena
+7. Softwarearen garapena
 Efektu-sistemaren logika eta kontrola C++-n garatu ziren, Arduino IDE erabiliz.
 Softwarearen helburu nagusiak izan ziren:
 ● audio-seinalea denbora errealean prozesatzea
 ● 9 efektuen artean aukeraketa eta konfigurazioa ahalbidetzea
 ● erabiltzaile-interfazea (display + encoder + pot + botoia) integratzea
 ● irteera (anplifikagailua / aurikularrak) modu fidagarrian ematea
-7. Prototipoa, kargaketa eta balidazioa
+8. Prototipoa, kargaketa eta balidazioa
 Kodea amaitutakoan, prototipoaren muntaia egin zen eta programa Teensy-ra kargatu
 zen. Ondoren, proba funtzionalak egin ziren:
 ● efektu bakoitzaren aktibazioa eta aldaketa egiaztatuz
 ● kontrolen erantzuna eta erabiltzaile-esperientzia aztertuz
 ● audioaren egonkortasuna (etenik/zaratarik gabe) bermatuz
-8. Integrazioa eta muntaketa fisikoa
+9. Integrazioa eta muntaketa fisikoa
 Behin prototipoa balidatuta, elementu guztiak egoki integratu ziren:
 ● plaka eta konektoreak
 ● pultsagailua(k), potentziometroa eta encoderra
@@ -306,19 +309,19 @@ zaindu zen.
 Bestalde, alde batetik kaxa margotu eta sortutako diseinua biniloan inprimitu zen, kaxan
 itsasteko. Elementu guztien kolokazioa neurtu eta kaxan zuloak egin ziren osagaiak bertan
 egoki txertatzeko.
-9. Amaierako probak
+10. Amaierako probak
 Azkenik, gitarra pedalean sartu eta anplifikagailuarekin (eta behar denean aurikularrekin)
 probatu zen. Egiaztatu zen:
 ● efektuen soinua koherentea eta erabilgarria dela
 ● aldaketa azkarrak eta kontrolen erantzuna egokia dela
 ● 5V elikadurarekin sistema egonkorra dela
-10. Ondorioak
+11. Ondorioak
 Proiektuak erakutsi du posible dela multiefektu digital funtzional bat garatzea plataforma
 txiki batekin, hardware eta softwarearen integrazio egokia eginez. Emaitza gisa, 9 efektu
 dituen pedal erabilgarria lortu da, kontrol-interfaze praktikoarekin eta irteera anizkoitzarekin
 (anplifikagailua/aurikularrak). Gainera, DSP kontzeptuetan, embedded programazioan eta
 prototipatzean esperientzia esanguratsua eskuratu da.
-11. Zirkuituaren eta sistemaren azalpen
+12. Zirkuituaren eta sistemaren azalpen
 teknikoa
 11.1. Arkitektura: seinalearen fluxua (Audio Path)
 Sistemaren funtzionamendua honela laburbil daiteke:
