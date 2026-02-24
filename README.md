@@ -32,7 +32,9 @@ kontrol-elementuak (potentziometroak) integratu ziren.
 Eskema definituta, materialen zerrenda zehatza prestatu zen. Osagaien aukeraketa
 funtzionaltasunean, eskuragarritasunean eta kostuan oinarritu zen. Ondoren, beharrezko
 osagai guztiak eskatu ziren muntaketa-faseari ekin ahal izateko.
+
 5.1. Material bakoitzaren funtzioa
+
 ● Erresistentzia 100 kΩ (50): polarizazio-sareetan eta gain/feedback kontrolaren
 inguruan balio tipikoa; inpedantziak eta korronteak finkatzeko.
 ● Erresistentzia 33 kΩ (50): seinalearen maila eta polarizazio puntua doitzeko
@@ -74,16 +76,17 @@ edo tonu sare baten kontrola).
 ● Adaptadorea (pila) (1): pilarekin elikatzeko konektore espezifikoa.
 ● Jack konektorea 6,3 mm (2): audio sarrera (INPUT) eta irteera (OUTPUT) egiteko.
 ● LED diodoa (1): pedalaren egoera adierazteko (ON/OFF).
-6. Protoboard-eko inplementazioa eta balidazioa
+
+7. Protoboard-eko inplementazioa eta balidazioa
 PCB-a fabrikatu aurretik, zirkuitua protoboard batean muntatu zen. Fase honen helburua
 zirkuituaren portaera egokia zela egiaztatzea izan zen. Proba esperimentalen bidez, fuzz
 efektuaren sorrera, seinalearen distortsio-maila eta kontrol-elementuen eragina aztertu
 ziren.
-7. PCB-aren diseinua eta fabrikazioa
+8. PCB-aren diseinua eta fabrikazioa
 Balidazioaren ondoren, PCB-aren diseinua egin zen Proteus-en, seinalearen bideak
 optimizatuz eta zarata minimizatzea kontuan hartuta. Diseinua amaitu ondoren, plaka LPKF
 makina erabiliz fresatu zen, diseinu digitaletik pieza fisikora igaroz.
-8. Soldadura eta integrazioa
+9. Soldadura eta integrazioa
 PCB-a prest zegoenean, osagai elektroniko guztiak soldatu ziren. Horrez gain, pedalaren
 funtzionamendurako beharrezkoak diren elementu guztiak integratu ziren: pulsagailua,
 potentziometroak, elikadura-konektorea eta pilaaren konektorea. Fase honetan soldaduren
@@ -110,17 +113,17 @@ ED
 Out
 Al negativo del circuito.
 Al positivo del circuito.
-9. Amaierako probak eta funtzionamenduaren
+10. Amaierako probak eta funtzionamenduaren
 egiaztapena
 Azken fasean, gitarra elektrikoa pedalarekin eta anplifikagailuarekin konektatu zen.
 Egindako probek erakutsi zuten fuzz efektua behar bezala sortzen zela eta zirkuituak espero
 zen portaera zuela, bai soinuen intentsitatean bai egonkortasunean.
-10. Ondorioak
+11. Ondorioak
 Proiektu honen bidez, fuzz efektuko pedal analogiko baten diseinu-prozesu osoa landu da,
 ikerketa teorikotik fabrikazio eta probetara arte. Lortutako emaitzek erakusten dute
 diseinatutako sistema funtzionala eta egokia dela. Gainera, zirkuitu analogikoen diseinuan
 eta fabrikazio-tekniketan ezagutza praktiko baliotsua eskuratu da.
-11. Zirkuituaren azalpen elektrikoa (atal teknikoa)
+12. Zirkuituaren azalpen elektrikoa (atal teknikoa)
 Diseinatutako fuzz efektuko pedal analogikoa transistoreen saturazioan oinarritzen da,
 sarrerako seinale sinusoidala modu ez-linealean anplifikatuz eta distortsionatuz. Atal
 honetan zirkuituaren funtzionamendu elektrikoa azaltzen da.
@@ -157,7 +160,7 @@ Azaldutako egitura elektrikoari esker, diseinatutako zirkuituak fuzz efektu klas
 portaera lortzen du. Diseinuak sinpletasuna eta eraginkortasuna uztartzen ditu, eta
 transistoreen ezaugarri ez-linealak modu kontrolatuan aprobetxatzen ditu soinuaren
 distortsioa sortzeko.
-12. Hardwarearen bloke-diagrama (pedal analogikoa)
+13. Hardwarearen bloke-diagrama (pedal analogikoa)
 
 Pedal analogikoa:
 ● Interneten aurretik eginda dauden eskemak aztertuko dira.
